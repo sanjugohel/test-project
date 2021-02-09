@@ -3,3 +3,5 @@ This line was replaced in feature-2 branch.
 This file was modified locally in vs code
 
 This line was added in feature-2 branch locally.
+
+Another modification in the feature-2 branch.
